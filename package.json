@@ -1,0 +1,19 @@
+{
+  "name": "hfm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "production": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StavZ/hfm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StavZ/hfm/issues"
+  },
+  "homepage": "https://github.com/StavZ/hfm#readme"
+}
